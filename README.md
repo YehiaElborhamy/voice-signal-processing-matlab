@@ -96,7 +96,7 @@ Completed successfully and achieved full functionality.
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Project Developer
 
 ### Yehia Elborhamy
 
