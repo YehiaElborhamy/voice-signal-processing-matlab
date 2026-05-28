@@ -1,6 +1,6 @@
 # voice-signal-processing-matlab
 time-frequency-domain-voice-processing
-# Voice Signal Processing Using MATLAB
+Voice Signal Processing Using MATLAB
 
 A signal processing project focused on analyzing and modifying voice signals in both time and frequency domains using MATLAB.
 
